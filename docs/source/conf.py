@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'comsar rtd test'
+project = 'rtd test'
 copyright = '2021, Michael Blass'
 author = 'Michael Blass'
 
