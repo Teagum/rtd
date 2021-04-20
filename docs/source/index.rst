@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to comsar rtd test's documentation!
-===========================================
+Welcome to the rtd-config-test documentation!
+==============================================
 
 .. toctree::
    :maxdepth: 2
