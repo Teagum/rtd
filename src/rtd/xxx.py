@@ -1,4 +1,4 @@
-import soundfile as sf
+from apollon.audio import AudioFile
 
 class MySuperClass:
     def __init__(self, herb):
