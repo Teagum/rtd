@@ -11,7 +11,7 @@ RhythmTrack
 TimbreTrack
 ========================================
 
-.. autoclass:: rtd::xxx::MySuperClass
+.. autoclass:: rtd.xxx::MySuperClass
    :members:
 
 FormTrack
